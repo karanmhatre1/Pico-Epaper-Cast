@@ -1,6 +1,8 @@
 # Pico-Epaper-Cast
 Cast remotely generated .bin images to a Waveshare E-Paper display using a Raspberry Pi Pico W / Pico 2 W.
 
+![https://res.cloudinary.com/dgksx9vlc/image/upload/w_600/q_auto/display-photo_ahp3g6.jpg](https://res.cloudinary.com/dgksx9vlc/image/upload/w_600/q_auto/display-photo_ahp3g6.jpg)
+
 ## Installation
 1. Flash MicroPython to your Pico W ([Instructions on the Raspberry Pi website](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html))
 2. Copy these files to the Pico (Using [Thonny](https://thonny.org/))
